@@ -22,7 +22,7 @@ const HeroSection = () => {
         as="button"
         className="dark:bg-black bg-white text-black dark:text-white flex items-center space-x-2 ml-2 "
       >
-            Get Started --></HoverBorderGradient>
+            Get Started --</HoverBorderGradient>
             </Link>
           <div>
           
