@@ -4,7 +4,6 @@
             "name":"Blog Title",
             "desc":"An Ai Tool that generates Titles based on the content",
             "category":"Blog",
-            "icon":"https://cdn-icons-png.flaticon.com/128/9751/9751151.png",
             "aiprompt":"Give me 5 blog topics in bullet wise only based on given niche and outline topic and give me result in rich text editor format",
             "slug":"generate-blog-title",
             "form":[
@@ -25,7 +24,6 @@
             "name":"Insta Hashtags",
             "desc":"An Ai Tool that generates Hashtags based on the input",
             "category":"HashTag generator",
-            "icon":"https://cdn-icons-png.flaticon.com/128/9751/9751151.png",
             "aiprompt":"Give me 10 top hashtags  on given niche topic and give me result in rich text editor format",
             "slug":"generate-hashtag",
             "form":[
@@ -61,7 +59,6 @@
             "name":"Code Generator",
             "desc":"An Ai Tool that can generate a code for given language",
             "category":"Programming",
-            "icon":"https://cdn-icons-png.flaticon.com/128/9751/9751151.png",
             "aiprompt":"Generate only code for the given niche in the given language",
             "slug":"generate-code",
             "form":[

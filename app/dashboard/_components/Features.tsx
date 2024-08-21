@@ -14,14 +14,13 @@ export interface Course {
     name: string;
     desc: string;
     category: string;
-    icon: string;
     aiprompt: string;
     slug: string;
     form?: FormField[];
   }
 
 const Features = () => {
-    const course = featuresdata.courses.filter((course:Course)=>course.name)
+    const course = featuresdata.courses.filter((course: Course) => course.desc.length > 0)
 
   return (
     <div className="py-12 bg-black">
